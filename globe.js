@@ -71,7 +71,7 @@ DAT.Globe = function(container, colorFn) {
 
   var overRenderer;
 
-  var imgDir = '/imgDir/';
+  var imgDir = '/terror-globe/';
 
   var curZoomSpeed = 0;
   var zoomSpeed = 50;
